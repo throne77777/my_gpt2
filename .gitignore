@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+
+.venv/
+env/
+
+train_out/
+train_ckpt/
+sft_out/
+sft_ckpt/
+
+*.pt
+*.bin
+*.log
+*.jsonl
